@@ -1,4 +1,4 @@
-# Playground
+# Creative / Interesting
 
 A place to play with `git`.
 
